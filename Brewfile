@@ -20,6 +20,7 @@ install peco
 install ssh-copy-id
 tap sanemat/font
 install ricty
+install mobile-shell
 
 cask install google-chrome
 cask install hipchat
