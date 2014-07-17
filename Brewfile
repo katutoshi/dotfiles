@@ -21,6 +21,7 @@ install ssh-copy-id
 tap sanemat/font
 install ricty
 install mobile-shell
+install bash-completion
 
 cask install google-chrome
 cask install hipchat
