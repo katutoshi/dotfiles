@@ -8,6 +8,7 @@ function execute() {
 dotfiles=(
     .bash_profile
     Brewfile
+    .tmux.conf
 )
 
 for dotfile in ${dotfiles[@]}; do
