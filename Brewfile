@@ -22,6 +22,7 @@ tap sanemat/font
 install ricty
 install mobile-shell
 install bash-completion
+install jq
 
 cask install google-chrome
 cask install hipchat
