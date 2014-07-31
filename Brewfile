@@ -25,6 +25,7 @@ install mobile-shell
 install bash-completion
 install jq
 install zsh
+install reattach-to-user-namespace
 
 cask install google-chrome
 cask install hipchat
