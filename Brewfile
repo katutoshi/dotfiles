@@ -34,5 +34,6 @@ cask install bartender
 cask install keepassx0
 cask install evernote
 cask install keyremap4macbook-mountainlion
+cask install skitch
 
 cleanup
