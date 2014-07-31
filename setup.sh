@@ -9,6 +9,7 @@ dotfiles=(
     .bash_profile
     Brewfile
     .tmux.conf
+    .zshrc
 )
 
 for dotfile in ${dotfiles[@]}; do

@@ -1,4 +1,5 @@
 update
+upgrade
 
 tap homebrew/versions
 tap caskroom/versions
@@ -23,6 +24,7 @@ install ricty
 install mobile-shell
 install bash-completion
 install jq
+install zsh
 
 cask install google-chrome
 cask install hipchat
