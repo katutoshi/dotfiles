@@ -26,6 +26,7 @@ install bash-completion
 install jq
 install zsh
 install reattach-to-user-namespace
+install gnu-sed
 
 cask install google-chrome
 cask install hipchat
