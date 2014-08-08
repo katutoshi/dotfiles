@@ -10,6 +10,7 @@ dotfiles=(
     Brewfile
     .tmux.conf
     .zshrc
+    .zlogout
 )
 
 for dotfile in ${dotfiles[@]}; do
