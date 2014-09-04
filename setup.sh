@@ -11,6 +11,7 @@ dotfiles=(
     .tmux.conf
     .zshrc
     .zlogout
+    .vimrc
 )
 
 for dotfile in ${dotfiles[@]}; do
