@@ -27,6 +27,7 @@ install jq
 install zsh
 install reattach-to-user-namespace
 install gnu-sed
+install pyenv-virtualenv
 
 cask install google-chrome
 cask install hipchat
